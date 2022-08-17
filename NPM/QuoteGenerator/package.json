@@ -1,0 +1,11 @@
+{
+  "name": "quotegenerator",
+  "version": "1.0.0",
+  "description": "get random quote with the author",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sanchit Yadav",
+  "license": "ISC"
+}
